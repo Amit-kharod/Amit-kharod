@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amit-kharod&label=Profile%20views&color=0e75b6&style=flat" alt="amit-kharod" /> </p>
 
-- 🔭 I’m currently working on [CSMATERIAL](https://www.csmaterial.in/)
+- 🔭 I’m currently working on [Brain Train](https://github.com/Amit-kharod/brain-train.git)
 
-- 🌱 I’m currently learning **NextJs 13**
+- 🌱 I’m currently learning **NextJs 13**, **DSA**
 
 - 👨‍💻 My portfolio [https://amitkharod.com/](https://amitkharod.com/)
 
